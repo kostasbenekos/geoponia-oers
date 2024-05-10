@@ -50,6 +50,6 @@
 
 Στιγμίοτυπο της εφαρμογής: ![genetikatropoiimenoi](https://github.com/kostasbenekos/geoponia-oers/assets/169405140/5b6d66ff-082a-4bd2-bdc9-254e576a4b6c)
 
-Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: 
+Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: (https://photodentro.edu.gr/ugc/r/8525/2971?locale=el)
 
 
