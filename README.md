@@ -4,7 +4,7 @@
 Στιγμιότυπο εφαρμογής: ![Στιγμιότυπο οθόνης (587)](https://github.com/kostasbenekos/geoponia-oers/assets/169405140/6e114517-936f-46f6-9322-6376c840fa70)
 
 
-Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: (https://photodentro.edu.gr/ugc/r/8525/2970?locale=el#) και στη διεύθυνση:(https://scratch.mit.edu/projects/1018549389/)
+Ο μαθησιακός πόρος βρίσκεται στη διεύθυνση:(https://scratch.mit.edu/projects/1018549389/)
 
 
 
