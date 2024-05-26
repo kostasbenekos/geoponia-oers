@@ -65,8 +65,6 @@
 Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: (https://photodentro.edu.gr/ugc/r/8525/2975?locale=el)
 
 
-
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 To παραπάνω έργο προστατεύεται από
