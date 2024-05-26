@@ -64,13 +64,9 @@
 
 Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: (https://photodentro.edu.gr/ugc/r/8525/2975?locale=el)
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-
-
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-To έργο προστατεύεται από
+To παραπάνω έργο προστατεύεται από
 [Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
