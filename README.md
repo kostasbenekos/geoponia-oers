@@ -5,9 +5,9 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-nc-sa]: (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.el)
+[cc-by-nc-sa-image]: (https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # 1. Το Κεφάλαιο μιας Γεωργικής Επιχείρησης
 Αποτελεί ένα εκπαιδευτικό παιχνίδι που δημιουργήθηκε στο scratch. Η εφαρμογή αυτή απευθύνεται σε μαθητές ΕΠΑΛ ή των ΕΝ.Ε.Ε.ΓΥ.Λ. του τομέα Γεωπονίας, Τροφίμων και Περιβάλλοντος που παρακολουθούν το μάθημα Σύγχρονες Γεωργικές Επιχειρήσεις, προκειμένου να αυτο-αξιολογήσουν τις γνώσεις τους. Ο μαθητής καλείται να βοηθήσει την Kate προκειμένου να ταξινομήσει σωστά το κεφάλαιο της γεωργικής της επιχείρησης σε μόνιμο, ημιμόνιμο και αναλώσιμο. Σε κάθε σωστή ταξινόμηση ο μαθητής παίρνει ένα πόντο και συγκεντρώνει στο τέλος μια συνολική βαθμολογία. Το πρόγραμμα ανατροφοδοτεί τον μαθητή αν πήγε καλά, εξαιρετικά και τον συστήνει αν χρειάζεται κάποια επανάληψη.
@@ -73,21 +73,4 @@ This work is licensed under a
 
 Ο μαθησιακός πόρος βρίσκεται στο αποθετήριο Φωτόδεντρο e-yliko χρηστών: (https://photodentro.edu.gr/ugc/r/8525/2975?locale=el)
 
-<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?>
-<x:xmpmeta xmlns:x='adobe:ns:meta/'>
-    <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
-             xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'
-             xmlns:cc='http://creativecommons.org/ns#'>
-        <rdf:Description rdf:about=''>
-            <xapRights:Marked>True</xapRights:Marked>
-            <xapRights:UsageTerms>
-                <rdf:Alt>
-                  <rdf:li xml:lang='x-default'>This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
-                  <rdf:li xml:lang='en-US' >This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
-                </rdf:Alt>
-            </xapRights:UsageTerms>
-            <cc:license rdf:resource='https://creativecommons.org/licenses/by-nc-sa/4.0/'/>
-        </rdf:Description>
-    </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end='r'?>
+
