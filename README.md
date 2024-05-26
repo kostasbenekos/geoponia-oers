@@ -5,8 +5,8 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by-nc-sa]: (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.el)
-[cc-by-nc-sa-image]: (https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.el
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # 1. Το Κεφάλαιο μιας Γεωργικής Επιχείρησης
